@@ -1,2 +1,3 @@
 # Python_Projects
-This is my python projects folder
+This is my Python projects folder
+Author: Ghanwa Rani
